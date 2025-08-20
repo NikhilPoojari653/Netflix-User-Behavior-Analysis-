@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project analyzing Netflix user behavior, churn prediction, and subscription patterns using Power BI. This project is designed to extract actionable insights that help improve customer retention and content engagement strategies.
 
-[Netflix Churn and User Behaviour Dashboard.pdf](https://github.com/user-attachments/files/21890480/Netflix.Churn.and.User.Behaviour.Dashboard.pdf)
+![Image](https://github.com/user-attachments/assets/9cc624eb-7fe5-4e71-8d14-608dc3b6cea5)
 
 ## 🚀 Overview
 
